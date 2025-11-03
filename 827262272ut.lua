@@ -12,6 +12,12 @@ local MenuList = {
         Category = "DEBUG",
     },
     {
+        Name = "SET PART AND TROL",
+        Desc = "BEST TROL USE IF AT MAP HAVE PART WITH ANCHORED FALSE 🎭",
+        Url  = "https://raw.githubusercontent.com/BimaSkyy/all-in-one-SC-rubox/refs/heads/main/code/8272626SAT.lua",
+        Category = "TROLL ALL GAME",
+    },
+    {
         Name = "AUTO AIM",
         Desc = "auto aim for game",
         Url  = "https://raw.githubusercontent.com/BimaSkyy/all-in-one-SC-rubox/refs/heads/main/code/826252277AA.lua",
