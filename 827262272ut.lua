@@ -12,6 +12,12 @@ local MenuList = {
         Category = "DEBUG",
     },
     {
+        Name = "AUTO AIM",
+        Desc = "auto aim for game",
+        Url  = "https://raw.githubusercontent.com/BimaSkyy/all-in-one-SC-rubox/refs/heads/main/code/826252277AA.lua",
+        Category = "TOOLS GAME",
+    },
+    {
         Name = "SavePosToFile",
         Desc = "this for save pos and save to file delta for make another script only if you know",
         Url  = "https://raw.githubusercontent.com/BimaSkyy/all-in-one-SC-rubox/refs/heads/main/code/726257ManagePosFile.lua",
