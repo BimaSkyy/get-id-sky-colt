@@ -18,10 +18,16 @@ local MenuList = {
         Category = "TROLL ALL GAME",
     },
     {
-        Name = "AUTO AIM",
-        Desc = "auto aim for game",
+        Name = "AUTO AIM V2",
+        Desc = "auto aim for game with team",
         Url  = "https://raw.githubusercontent.com/BimaSkyy/all-in-one-SC-rubox/refs/heads/main/code/826252277AA.lua",
-        Category = "TOOLS GAME",
+        Category = "AUTO AIM",
+    },
+    {
+        Name = "AUTO AIM ALL GUY",
+        Desc = "auto aim for game for all people",
+        Url  = "https://raw.githubusercontent.com/BimaSkyy/all-in-one-SC-rubox/refs/heads/main/code/2826373AAAG.lua",
+        Category = "AUTO AIM",
     },
     {
         Name = "SavePosToFile",
