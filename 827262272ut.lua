@@ -24,6 +24,12 @@ local MenuList = {
         Category = "AUTO AIM",
     },
     {
+        Name = "AUTO AIM HAND",
+        Desc = "AUTO AIM HAND PLAYER ALL GUY",
+        Url  = "https://raw.githubusercontent.com/BimaSkyy/all-in-one-SC-rubox/refs/heads/main/2927262AIHA.lua",
+        Category = "AUTO AIM",
+    },
+    {
         Name = "AUTO AIM ALL GUY",
         Desc = "auto aim for game for all people",
         Url  = "https://raw.githubusercontent.com/BimaSkyy/all-in-one-SC-rubox/refs/heads/main/code/2826373AAAG.lua",
